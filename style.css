@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+section{
+  background-image: url("images/EXPLORE.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:65%;
+  text-align:center;
+  color:white;
+}
+
+body{
+  font-family: 'Pacifico', cursive;
+}
+
+nav{
+  background-color:lightblue;
+}
+
+
+#made{
+  background-color:lightblue;
+}
+
+#mam{
+  text-align:center;
+  color:black;
+  font-family: 'Pacifico', cursive;
+  font-size:20px;
+}
+
+#add{
+  background-color:lightblue;
+}
+
+#as{
+  background-color:lightblue;
+}
+
+#ffg{
+  text-align:center;
+}
